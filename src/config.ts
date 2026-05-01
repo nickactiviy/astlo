@@ -1,8 +1,8 @@
 export default {
   site: {
-    title: "My Blog",
-    subtitle: "My Blog Subtitle",
-    description: "D-Sketon's blog",
+    title: "Nike Blog",
+    subtitle: "Nike Blog Subtitle",
+    description: "Nike blog",
     keywords: "Nike, blog, journal, anime, donghua, biology, philosophy",
     author: "Nike-Nicholas",
     language: "zh-CN",
