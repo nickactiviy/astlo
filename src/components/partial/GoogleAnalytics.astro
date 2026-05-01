@@ -6,16 +6,11 @@ type Props = {
 const { id } = Astro.props;
 ---
 
-<script
-  is:inline
-  async
-  src={`https://www.googletagmanager.com/gtag/js?id=${id}`}></script>
-
-<script data-astro-rerun is:inline define:vars={{ id }}>
+<script is:inline async src="{`https://www.googletagmanager.com/gtag/js?id=${id}`}></script>
+  <script data-astro-rerun is:inline define:vars={{ id }}>
   window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    window.dataLayer.push(arguments);
-  }
-  gtag("js", new Date());
-  gtag("config", id);
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', id);
 </script>
