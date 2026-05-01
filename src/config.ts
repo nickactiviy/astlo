@@ -52,7 +52,7 @@ export default {
 
   analytics: {
     baidu_analytics: false,
-    google_analytics: false,
+    google_analytics: "G-D7ZEVNBVE1",
     clarity: false,
   },
 
