@@ -3,8 +3,8 @@ export default {
     title: "My Blog",
     subtitle: "My Blog Subtitle",
     description: "D-Sketon's blog",
-    keywords: "D-Sketon, blog, astro, theme",
-    author: "D-Sketon",
+    keywords: "Nike, blog, journal, anime, donghua, biology, philosophy",
+    author: "Nike-Nicholas",
     language: "zh-CN",
   },
 
