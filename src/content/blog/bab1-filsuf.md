@@ -1,7 +1,7 @@
 ---
 title: 'Catatan Pembelajaran tentang Filsuf'
 description: 'Bab 1 ini dimulai dengan memperkenalkan Filosofi dan makna yang terjadi di alam semesta dan universe lain dapat berlaku'
-pubDate: 'Des 29 2025'
+pubDate: '2025-12-29'
 categories: ['Blog', 'Journal']
 tags: ['filsuf', 'notes']
 ---
