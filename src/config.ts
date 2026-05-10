@@ -1,7 +1,7 @@
 export default {
   site: {
-    title: "Nike Blog",
-    subtitle: "Nike Blog Subtitle",
+    title: "Philosophy",
+    subtitle: "Seorang Philosophy Yang cinta akan kebijaksanaan",
     description: "Nike blog",
     keywords: "Nike, blog, journal, anime, donghua, biology, philosophy",
     author: "Nike-Nicholas",
