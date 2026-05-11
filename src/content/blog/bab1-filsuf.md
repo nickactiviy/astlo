@@ -1,5 +1,6 @@
 ---
 title: 'Catatan tentang Filsuf'
+cover: "/cover/images.jpeg"
 description: 'Bab 1 ini dimulai dengan memperkenalkan Filosofi dan makna yang terjadi di alam semesta dan universe lain dapat berlaku'
 pubDate: '2022-04-09'
 categories: ['Blog', 'Journal']
