@@ -3,7 +3,10 @@ layout: ../layouts/MarkdownLayout.astro
 title: About
 pubDate: "Jul 08 2022"
 ---
-import HeatMapCard from "./components/mdx/HeatMapCard.astro";
+import HeatMapCard from "../components/mdx/HeatMapCard.astro";
+import FriendCard from "../components/mdx/FriendCard.astro";
+
+<HeatMapCard levelStandard="1000,5000,10000" />
 
 ## 本站信息
 
@@ -24,6 +27,5 @@ import HeatMapCard from "./components/mdx/HeatMapCard.astro";
 ```
 ````
 
-import FriendCard from "../components/mdx/FriendCard.astro";
 
 <FriendCard />
