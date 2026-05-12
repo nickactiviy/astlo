@@ -45,9 +45,11 @@ const headerImage = cover || BANNER;
 ---
 
 <!doctype html>
-<html lang={SITE.language}>
+<html lang={SITE.language} translate="no">
   <head>
     <ThemeScript />
+    <meta name="google" content="notranslate" />
+    <meta name="robots" content="notranslate" />
     <CommonMeta title={title} description={description} keywords={keywords} />
     <link rel="preload" as="image" href={urlFor(headerImage)} />
     <style>
