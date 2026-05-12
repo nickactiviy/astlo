@@ -4,8 +4,8 @@ export default {
     subtitle: "Seorang Philosophy Yang cinta akan kebijaksanaan",
     description: "Nike blog",
     keywords: "Nike, blog, journal, anime, donghua, biology, philosophy",
-    author: "Nike-Nicholas",
-    language: "zh-CN",
+    author: "Nike☯️Nicholas",
+    language: "en",
   },
 
   sidebar: {
