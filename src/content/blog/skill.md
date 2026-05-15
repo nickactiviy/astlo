@@ -1,5 +1,5 @@
 ---
-title: 'Skill ? What's that'
+title: "Skill ? What's that"
 description: 'menjelaskan tentang apa itu skill, dan sampai ke argumen'
 pubDate: 'Jul 15 2022'
 categories: ['Diary', 'Filsuf']
