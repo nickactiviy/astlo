@@ -5,8 +5,7 @@ pubDate: 'Jul 15 2022'
 categories: ['Diary', 'Filsuf']
 tags: ['notes', 'Blog']
 ---
-
-Menjelaskan tentang apa itu skill, dan sampai ke argumen. <!-- more -->
+Menjelaskan tentang apa itu skill, dan sampai ke argumen.
 
 ## 2.1. Apa itu Skill (Mendasar)
 
