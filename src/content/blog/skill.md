@@ -1,5 +1,6 @@
 ---
 title: "Skill? What's that"
+cover: 'https://i.pinimg.com/236x/8c/2b/8f/8c2b8f33e44fb199e9e074d760e5ab42.jpg'
 description: 'Menjelaskan tentang apa itu skill, hingga ke argumen mendalamnya.'
 pubDate: 'Jul 15 2022'
 categories: ['Diary', 'Filsuf']
