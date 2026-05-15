@@ -1,17 +1,48 @@
 ---
-title: 'Third post'
-description: 'Lorem ipsum dolor sit amet'
+title: 'Skill ? What's that'
+description: 'menjelaskan tentang apa itu skill, dan sampai ke argumen'
 pubDate: 'Jul 15 2022'
-categories: ['Blog', 'Guide']
-tags: ['markdown', 'tutorial']
+categories: ['Diary', 'Filsuf']
+tags: ['notes', 'Blog']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+menjelaskan tentang apa itu skill, dan sampai ke argumen<!-- more -->
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+## 2.1. Apa itu Skill (Mendasar)
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+Skill adalah kemampuan atau keahlian untuk melakukan suatu pekerjaan atau tugas dengan efektif, yang diperoleh melalui proses belajar, latihan, dan pengalaman. Skill mencakup penggunaan akal, ide, dan kreativitas untuk menghasilkan nilai, baik teknis (hard skill) maupun interpersonal (soft skill).
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+### 2.1.1. Jenis Skill
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Secara umum, skill dibagi menjadi dua jenis utama yang saling melengkapi dalam dunia kerja: 
+
+1. Hard Skill (Keterampilan Teknis): Kemampuan spesifik yang dapat diukur dan dipelajari, biasanya melalui pendidikan formal atau sertifikasi.
+    - Contoh :`Pemrograman, desain grafis, kemampuan bahasa asing, copywriting, dan manajemen data.`
+
+2. Soft Skill (Keterampilan Interpersonal/Non-teknis)
+    Atribut pribadi dan kecerdasan emosional yang mempengaruhi cara seseorang berinteraksi dan bekerja sama dengan orang lain.
+    - Contoh :`Komunikasi, kerja sama tim, kepemimpinan, pemecahan masalah (problem solving), dan manajemen waktu. `
+
+- Skill sangat penting untuk meningkatkan produktivitas, daya saing di dunia kerja, serta membantu individu berkembang baik dalam karier maupun kehidupan sehari-hari. 
+
+### 2.1.2. Argumen Tinggi
+
+Nah sekarang kita bahas argumen nya dan saya jelaskan agar mudah dimengerti manusia dalam bentuk tulisan
+
+- Skill itu dalam bahasa dasarnya adalah `Kemampuan` Secara Pandangan Setiap mahluk hidup Tidak ada kemampuan alami, ketika mereka lahir kedunia ini semesta ini dimensi ini tidak ada bawaan kemampuan/skill, terus skill didapat darimana?, skill didapat dari pengetahuan dan keingintahuan mahluk hidup baik hewan maupun manusia dan skill itu mulai ada ketika seorang anak mahluk hidup hewan maupun manusia melihat sesuatu yang membuat dia tertarik dan ingin melalukannya skill bisa ada dengan bimbingan pengaruh orang tua atau untuk hewan (induk hewan) Dan pengaruh lingkungan dan agama(untuk manusia)
+
+- Saya ingin menjelaskan bahwa Skill yang di gunakan hanya untuk satu kemampuan dapat diguanakan untuk skill lain dengan sedikit tambahan pengetahuan jadi kamu tidak perlu menjadi cleaning services kalau kamu bisa nyapu dan beberes dirumah pada Dasarnya skill tambahan di pekerjaan zaman modern dunia ini terutama pada negara tertentu pasti menyertakan skill tambahan sebenarnya menurut saya itu tidak berguna jika kamu bekerja cleaning services karna kamu sudah bisa menyapu jadi untuk skill lain tidak dibutuhkan sebenarnya butuh cuma kamu tidak perlu melakukannya karna manusia memproses kemampuan dia sendiri tergantung keingintahuan itu akan otomatis ada misalnya skill harus baik disiplin kamu tidak harus melakukannya Karna itu otomatis ada dalam dirimu jika kamu mau melakukannya, skill itu tidak harus kamu benar benar melalukanya pada awalnya manusia memang tidak bisa melalukan apapun tanpa rasa ingin tau.
+
+## 2.1.3. Skill? Pekerjaan?
+
+Pernah melamar kerja? pernah di tanyain misalnya skill apa atau kamu pernah membaca lowongan pekerjaan yang menautkan skill?
+
+1. Sebenarnya ini menurut saya ini sedikit krusial kenapa? karna memamg dasarnya manusia maupun hewan mahkuk hidup tidak punya skill alami, bayi bisa jalan interaksi karna lingkungan dan bimbingan orang tua dan keingintahuan mereka itu juga disebut skill Karna kita mampu berpikir dan berjalan dengan kaki beserta interkasi itu merupakan skill kita bisa menggunakan teknologi itu skill kita bisa naik kendaraan itu skill apapun yang kita lakukan sebenarnya adalah skill tidur pun juga skill makan juga skill karna kita tau bahwa kita perlu makan cara makan gimana itu skill tidur pun begitu itu semua diturunkan oleh beberapa generasi dan melekat pada DNA kita menjadi sebuah hal biasa.
+
+### 2.1.4. Mudah didapat?
+
+Ya skill mudah didapat asalkan kamu bisa merilisnya contoh :Kamu menonton di internet cara mengendarai excavator atau melihat sendiri langsung di cabin nya kamu melihat cara nya mengendalikanya kamu tau nah, kamu tinggal merilisnya, nah rilis nya gimana ya kamu harus punya excavator sendiri atau pinjam dengan begitu kamu mencoba keingintahuan dasar yang di dapat dari sebuah contoh masalahnya di jaman modern sekarang melakukan itu syulit karna ga mungkin kamu tiba tiba di pinjamin excavator. harus masuk sekolah khusus dan biaya dan belajar materi segala macam cuma untuk excavator lagi pula niatnya cuna mengendarai excavator, ya maka ubah ke skill lain, tapi kamu tetap mendapatkan skill itu dengan menonton tanpa disadari.
+
+### 2.1.5. Jadi Sebenarnya Skill itu ada Diantara kita Dan melimpah tanpa kamu melalukan terus dan tidak kalian sadari
+
+Jadi Jika saya melamar kerja di dunia modern dan ditanyakan skill, itu justru membuat saya bingung dan ingin balik nanya justru skill saat seseorang mewawancarai saya, itu justru keren karna bisa mempengaruhi seseorang, skill saya yaitu tidak berexpresi berargumen berpikir mendalam tapi dengan fikiran saya sendiri ilmu saya sendiri.
