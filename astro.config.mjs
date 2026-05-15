@@ -13,14 +13,18 @@ import Font from 'vite-plugin-font';
 import mermaid from './src/plugins/mermaid.mjs';
 import rehypeLazyLoadImage from './src/plugins/lazyLoadImage.mjs';
 
+import cloudflare from "@astrojs/cloudflare";
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://nike.nicoleleta.workers.dev',
+
   markdown: {
     remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeKatex, rehypeLazyLoadImage],
     syntaxHighlight: false
   },
+
   integrations: [mermaid(), astroExpressiveCode({
     // You can use any of the themes bundled with Shiki by name,
     // specify a path to JSON theme file, or pass an instance
@@ -38,11 +42,14 @@ export default defineConfig({
     },
     plugins: [pluginCollapsibleSections(), pluginLineNumbers()]
   }), mdx(), sitemap(), icon(), react()],
+
   vite: {
     plugins: [
      Font.vite({
         scanFiles: ['src/**/*.{ts,tsx,js,jsx,md,mdx,astro,yml}']
       }),
     ]
-  }
+  },
+
+  adapter: cloudflare()
 });
